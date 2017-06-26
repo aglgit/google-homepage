@@ -1,2 +1,2 @@
 # The Google.com homepage
-[The Odin Project](https://www.theodinproject.com/courses/web-development-101/lessons/html-css?ref=lnav)
+From The Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)
